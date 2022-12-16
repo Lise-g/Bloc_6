@@ -4,7 +4,7 @@
 Contact : Lise Gnos  
 email : lise.gnos@gmail.com
 
-> Video link : 👉  👈
+> Video link : 👉 https://share.vidyard.com/watch/TncLxbibf6WmXscFXg1czx? 👈
 
 The project aims at predicting real estate prices for flats and houses in the city of Lyon (France).
 
