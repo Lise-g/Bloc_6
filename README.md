@@ -1,7 +1,7 @@
 # Bloc_6
 **Final project for certification**
 
-Contact : Lise Gnos
+Contact : Lise Gnos  
 email : lise.gnos@gmail.com
 
 > Video link : 👉  👈
@@ -36,7 +36,7 @@ Our data come from several sources. Here is an illustration in order to understa
 
 ## Source 1 : 'Demande de valeurs foncières'
 
-Database from Etalab https://app.dvf.etalab.gouv.fr/
+Database from Etalab https://app.dvf.etalab.gouv.fr/  
 Database from Insee https://www.insee.fr/fr/statistiques/6665809#tableau-ipla-g1-fr
 
 EDA_and_cleaning:
@@ -139,6 +139,7 @@ We did a left join and also an inner join.
 > Notebook : 'machine_learning/immoML_DBSCAN_XGBoost.ipynb'
 
 > Input of the notebook : 'nouveaux_datasets/df_model_inner_221201.csv'
+
 > Outputs of the notebook : 'machine_learning/dataframes of scores for each loop on several models'
 
 ## Train the best model on all datas and export the model + preprocessor
