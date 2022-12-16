@@ -71,10 +71,10 @@ You will find into this folder each python scripts which scraps coordinates and 
 > Folder : data_collection/clean_and_concatenation_metrotram_geodatamine/
 
 You will find into this folder 4 jupyter notebooks and all data sources.
-		1- raw geodatamine data cleaning
-		2- raw scraped data cleaning
-		3- both previous cleaned data concatenation
-		4- final dataframe creation
+1- raw geodatamine data cleaning
+2- raw scraped data cleaning
+3- both previous cleaned data concatenation
+4- final dataframe creation
 
 ## Calculation of distances
 
